@@ -18,11 +18,6 @@ Feel free to check out my projects and connect if you'd like to collaborate!
 - Engineered distributed systems with async Python, Celery, Redis, and event-driven architectures
 - Implemented secure multi-tenant SaaS platforms with RBAC, OAuth2, and strict data isolation
 
-## Open Source & Projects
-
-- [ai-dashboard-streamlit](https://github.com/reachosamaarshad/ai-dashboard-streamlit) - Interactive Streamlit dashboard leveraging OpenAI's LLMs for automated insights from tabular datasets
-- [Streamlit-Security-Bot](https://github.com/reachosamaarshad/Streamlit-Security-Bot) - AI-powered website security chatbot analyzing HTTPS, SSL certificates, domain age, and security headers
-
 ## My Skills
 
 ### Backend & Architecture
