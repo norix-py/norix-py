@@ -78,10 +78,10 @@ I combine **Backend Engineering + AI + Data Systems** into one cohesive architec
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=reachosamaarshad&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=norix-py&theme=radical&hide_border=true)
 
-![GitHub Followers](https://img.shields.io/github/followers/reachosamaarshad?style=flat-square)
-![GitHub User's Stars](https://img.shields.io/github/stars/reachosamaarshad?style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/norix-py?style=flat-square)
+![GitHub User's Stars](https://img.shields.io/github/stars/norix-py?style=flat-square)
 
 ---
 
