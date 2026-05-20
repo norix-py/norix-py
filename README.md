@@ -79,11 +79,12 @@ I combine **Backend Engineering + AI Execution + Core Data Systems** into one co
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=norix-py&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norix-py&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ![GitHub Followers](https://img.shields.io/github/followers/norix-py?style=flat-square)
 ![GitHub User's Stars](https://img.shields.io/github/stars/norix-py?style=flat-square)
-
 ---
 
 **Senior Python Backend Engineer** · **Django** · **FastAPI** · **Low-Latency REST APIs** · **Microservices Architecture** · **AI SaaS Platform Scaling** · **LLM Orchestration** · **RAG Pipelines** · **Agentic Workflows** · **Vector Databases** · **Production-Ready Systems**
